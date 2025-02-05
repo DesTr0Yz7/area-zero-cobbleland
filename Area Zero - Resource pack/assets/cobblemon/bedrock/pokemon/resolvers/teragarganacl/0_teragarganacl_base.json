@@ -1,0 +1,32 @@
+{
+ "species": "cobblemon:teragarganacl",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:teragarganacl",
+     "model": "cobblemon:teragarganacl.geo",
+     "texture": "cobblemon:textures/pokemon/teragarganacl/teragarganacl.png",
+     "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/teragarganacl/teragarganacl_emissive.png",
+          "emissive": true
+        }
+      ]
+   },
+   {
+     "aspects": [
+       "shiny"
+     ],
+     "texture": "cobblemon:textures/pokemon/teragarganacl/teragarganacl_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/teragarganacl/teragarganacl_emissive.png",
+          "emissive": true
+        }
+      ]
+   }
+ ]
+}

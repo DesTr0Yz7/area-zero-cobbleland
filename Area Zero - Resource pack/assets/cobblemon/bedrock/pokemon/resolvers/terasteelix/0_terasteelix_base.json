@@ -1,0 +1,32 @@
+{
+ "species": "cobblemon:terasteelix",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:terasteelix",
+     "model": "cobblemon:terasteelix.geo",
+     "texture": "cobblemon:textures/pokemon/terasteelix/terasteelix.png",
+     "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/terasteelix/terasteelix_emissive.png",
+          "emissive": true
+        }
+      ]
+   },
+   {
+     "aspects": [
+       "shiny"
+     ],
+     "texture": "cobblemon:textures/pokemon/terasteelix/terasteelix_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/terasteelix/terasteelix_emissive.png",
+          "emissive": true
+        }
+      ]
+   }
+ ]
+}
