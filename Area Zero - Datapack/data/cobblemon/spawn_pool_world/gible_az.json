@@ -1,0 +1,45 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "gible-1",
+            "pokemon": "gible",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "5-30",
+            "weight": 7.5,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_warm_mines"
+                ]
+            }
+        },
+        {
+            "id": "gible-2",
+            "pokemon": "gible",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "ultra-rare",
+            "level": "5-30",
+            "weight": 6.0,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_warm_mines"
+                ]
+            }
+        }
+    ]
+}

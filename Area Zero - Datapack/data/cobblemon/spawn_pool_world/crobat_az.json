@@ -1,0 +1,26 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "crobat-1",
+            "pokemon": "crobat",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "41-54",
+            "weight": 0.02,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_amethyst_caves"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "dedenne-1",
+            "pokemon": "dedenne",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-50",
+            "weight": 2.83,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_savana"
+                ]
+            }
+        }
+    ]
+}

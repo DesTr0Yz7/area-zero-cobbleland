@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "gastly-1",
+            "pokemon": "gastly",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "6-31",
+            "weight": 5.04,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_deep_mines"
+                ]
+            }
+        }
+    ]
+}
