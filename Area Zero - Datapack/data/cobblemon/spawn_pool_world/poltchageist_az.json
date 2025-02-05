@@ -1,0 +1,72 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "poltchageist-1",
+            "pokemon": "poltchageist",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "5-30",
+            "weight": 8.0,
+            "condition": {
+                "biomes": [
+                   "area_zero_biomes:areazero_beach",
+                   "area_zero_biomes:areazero_plains",
+                   "area_zero_biomes:areazero_savana",
+                   "area_zero_biomes:areazero_swamp",
+                   "area_zero_biomes:areazero_tundra",
+                   "area_zero_biomes:areazero_volcanic_geysers",
+                   "area_zero_biomes:areazero_crystal_mines",
+                   "area_zero_biomes:areazero_amethyst_caves",
+                   "area_zero_biomes:areazero_deep_mines",
+                   "area_zero_biomes:areazero_ice_caves",
+                   "area_zero_biomes:areazero_lush_caves",
+                   "area_zero_biomes:areazero_warm_mines"
+                ],
+                "neededNearbyBlocks": [
+                    "#minecraft:spruce_slab",
+                    "#minecraft:jungle_planks"
+                ]
+            }
+        },
+        {
+            "id": "poltchageist-2",
+            "pokemon": "poltchageist",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "5-30",
+            "weight": 8.0,
+            "condition": {
+                "biomes": [
+                   "area_zero_biomes:areazero_beach",
+                   "area_zero_biomes:areazero_plains",
+                   "area_zero_biomes:areazero_savana",
+                   "area_zero_biomes:areazero_swamp",
+                   "area_zero_biomes:areazero_tundra",
+                   "area_zero_biomes:areazero_volcanic_geysers",
+                   "area_zero_biomes:areazero_crystal_mines",
+                   "area_zero_biomes:areazero_amethyst_caves",
+                   "area_zero_biomes:areazero_deep_mines",
+                   "area_zero_biomes:areazero_ice_caves",
+                   "area_zero_biomes:areazero_lush_caves",
+                   "area_zero_biomes:areazero_warm_mines"
+                ],
+                "neededNearbyBlocks": [
+                    "#minecraft:smooth_quartz",
+                    "#minecraft:iron_trapdoor",
+                    "#minecraft:cyan_terracotta"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "nickit-1",
+            "pokemon": "nickit",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "10-30",
+            "weight": 0.61,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_savana"
+                ]
+            }
+        }
+    ]
+}

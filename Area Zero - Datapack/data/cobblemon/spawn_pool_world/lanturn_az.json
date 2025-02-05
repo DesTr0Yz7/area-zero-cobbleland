@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "lanturn-1",
+            "pokemon": "lanturn",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "submerged",
+            "bucket": "common",
+            "level": "27-46",
+            "weight": 0.6,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        }
+    ]
+}

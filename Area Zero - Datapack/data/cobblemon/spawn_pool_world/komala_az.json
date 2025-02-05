@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "komala-1",
+            "pokemon": "komala",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-50",
+            "weight": 3.43,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_savana"
+                ]
+            }
+        }
+    ]
+}
