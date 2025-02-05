@@ -1,0 +1,46 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "teragarganacl-1",
+            "pokemon": "teragarganacl",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-50",
+            "weight": 0.06,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_plains"
+                ]
+            }
+        },
+        {
+            "id": "teragarganacl-2",
+            "pokemon": "teragarganacl",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-50",
+            "weight": 0.1,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_lush_caves"
+                ]
+            }
+        }
+    ]
+}

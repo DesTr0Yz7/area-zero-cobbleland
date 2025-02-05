@@ -1,0 +1,46 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "teranaclstack-1",
+            "pokemon": "teranaclstack",
+            "presets": [
+                "natural",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "24-36",
+            "weight": 0.54,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_plains"
+                ]
+            }
+        },
+        {
+            "id": "teranaclstack-2",
+            "pokemon": "teranaclstack",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "24-36",
+            "weight": 0.9,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_lush_caves"
+                ]
+            }
+        }
+    ]
+}

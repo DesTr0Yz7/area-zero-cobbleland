@@ -1,0 +1,43 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "terasteelix-1",
+            "pokemon": "terasteelix",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "34-51",
+            "weight": 0.48,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_crystal_mines"
+                ]
+            }
+        },
+        {
+            "id": "terasteelix-2",
+            "pokemon": "terasteelix",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "34-51",
+            "weight": 0.16,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_savana"
+                ]
+            }
+        }
+    ]
+}

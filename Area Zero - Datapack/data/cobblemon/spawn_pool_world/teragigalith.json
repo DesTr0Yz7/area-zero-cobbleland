@@ -1,0 +1,109 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "teragigalith-1",
+     "pokemon": "teragigalith",
+     "presets": [ "natural" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "rare",
+     "level": "45-55",
+     "weight": 3.0,
+     "condition": {
+       "biomes": [ "area_zero_biomes:areazero_tundra" ]
+     }
+   },
+   {
+     "id": "teragigalith-2",
+     "pokemon": "teragigalith",
+     "presets": [ "natural" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-60",
+     "weight": 8.0,
+     "condition": {
+       "biomes": [ "area_zero_biomes:areazero_tundra" ]
+     }
+   },
+   {
+     "id": "teragigalith-3",
+     "pokemon": "teragigalith",
+     "presets": [
+         "natural"
+     ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "common",
+     "level": "34-52",
+     "weight": 0.05,
+     "condition": {
+         "minSkyLight": 0,
+         "maxSkyLight": 7,
+         "biomes": [
+             "area_zero_biomes:areazero_tundra"
+         ]
+     }
+   },
+   {
+     "id": "teragigalith-4",
+     "pokemon": "teragigalith",
+     "presets": [
+         "natural"
+     ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "uncommon",
+     "level": "34-52",
+     "weight": 0.08,
+     "condition": {
+         "minSkyLight": 0,
+         "maxSkyLight": 7,
+         "biomes": [
+             "area_zero_biomes:areazero_tundra"
+         ]
+     }
+   },
+   {
+     "id": "teragigalith-5",
+     "pokemon": "teragigalith",
+     "presets": [
+         "natural"
+     ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "common",
+     "level": "34-52",
+     "weight": 0.05,
+     "condition": {
+         "minSkyLight": 0,
+         "maxSkyLight": 7,
+         "biomes": [
+             "area_zero_biomes:areazero_ice_caves"
+         ]
+     }
+   },
+   {
+     "id": "teragigalith-6",
+     "pokemon": "teragigalith",
+     "presets": [
+         "natural"
+     ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "uncommon",
+     "level": "34-52",
+     "weight": 0.08,
+     "condition": {
+         "minSkyLight": 0,
+         "maxSkyLight": 7,
+         "biomes": [
+             "area_zero_biomes:areazero_ice_caves"
+         ]
+     }
+   }
+ ]
+}

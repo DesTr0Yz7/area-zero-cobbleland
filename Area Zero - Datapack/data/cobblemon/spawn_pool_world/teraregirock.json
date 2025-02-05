@@ -1,0 +1,21 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "teraregirock-1",
+     "pokemon": "teraregirock",
+     "presets": [ "natural" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-75",
+     "weight": 0.5,
+     "condition": {
+       "canSeeSky": true,
+       "biomes": [ "area_zero_biomes:areazero_savana"]
+     }
+   }
+ ]
+}

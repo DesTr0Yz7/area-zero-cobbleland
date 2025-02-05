@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "spoink-1",
+            "pokemon": "spoink",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "10-50",
+            "weight": 4.89,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_savana"
+                ]
+            }
+        }
+    ]
+}

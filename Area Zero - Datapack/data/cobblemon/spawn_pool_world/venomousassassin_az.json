@@ -1,0 +1,21 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "venomousassassin-1",
+     "pokemon": "venomousassassin",
+     "presets": [ "natural" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-70",
+     "weight": 1,
+     "condition": {
+       "canSeeSky": true,
+       "biomes": [ "area_zero_biomes:areazero_plains"]
+     }
+   }
+ ]
+}
