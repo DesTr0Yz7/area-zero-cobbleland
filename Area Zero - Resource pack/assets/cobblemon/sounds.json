@@ -1,0 +1,14 @@
+{
+   "pokemon.ironabyss.cry": {
+       "sounds": ["cobblemon:pokemon/ironabyss/ironabyss_cry"]
+   },
+   "pokemon.ironguardian.cry": {
+       "sounds": ["cobblemon:pokemon/ironguardian/ironguardian_cry"]
+   },
+   "pokemon.feralspine.cry": {
+       "sounds": ["cobblemon:pokemon/feralspine/feralspine_cry"]
+   },
+   "pokemon.ironascent.cry": {
+       "sounds": ["cobblemon:pokemon/ironascent/ironascent_cry"]
+   }
+}

@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "eiscue-1",
+            "pokemon": "eiscue",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "40-70",
+            "weight": 4.73,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_tundra"
+                ]
+            }
+        }
+    ]
+}

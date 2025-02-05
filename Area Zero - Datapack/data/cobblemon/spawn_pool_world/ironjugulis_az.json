@@ -1,0 +1,53 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "ironjugulis-1",
+            "pokemon": "ironjugulis",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "60",
+            "weight": 1.1,
+            "condition": {
+                "biomes": [
+                   "area_zero_biomes:areazero_volcanic_geysers",
+                   "area_zero_biomes:areazero_crystal_mines",
+                   "area_zero_biomes:areazero_amethyst_caves",
+                   "area_zero_biomes:areazero_deep_mines",
+                   "area_zero_biomes:areazero_ice_caves",
+                   "area_zero_biomes:areazero_lush_caves",
+                   "area_zero_biomes:areazero_warm_mines"
+                ]
+            }
+        },
+        {
+            "id": "ironjugulis-2",
+            "pokemon": "ironjugulis",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "60",
+            "weight": 1.1,
+            "condition": {
+                "timeRange": "13188-22812",
+                "biomes": [
+                   "area_zero_biomes:areazero_beach",
+                   "area_zero_biomes:areazero_plains",
+                   "area_zero_biomes:areazero_savana",
+                   "area_zero_biomes:areazero_swamp",
+                   "area_zero_biomes:areazero_tundra",
+                   "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "steelix-1",
+            "pokemon": "steelix",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "34-51",
+            "weight": 0.48,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_amethyst_caves",
+                    "area_zero_biomes:areazero_crystal_mines",
+                    "area_zero_biomes:areazero_deep_mines",
+                    "area_zero_biomes:areazero_ice_caves",
+                    "area_zero_biomes:areazero_lush_caves",
+                    "area_zero_biomes:areazero_warm_mines",
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+ "species": "cobblemon:teragigalith",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:teragigalith",
+     "model": "cobblemon:teragigalith.geo",
+     "texture": "cobblemon:textures/pokemon/teragigalith/teragigalith.png",
+     "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/teragigalith/teragigalith_emissive.png",
+          "emissive": true
+        }
+      ]
+   },
+   {
+     "aspects": [
+       "shiny"
+     ],
+     "texture": "cobblemon:textures/pokemon/teragigalith/teragigalith_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/teragigalith/teragigalith_shiny_emissive.png",
+          "emissive": true
+        }
+      ]
+   }
+ ]
+}

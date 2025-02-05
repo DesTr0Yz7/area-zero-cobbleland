@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "stufful-1",
+            "pokemon": "stufful",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "20-50",
+            "weight": 1.5,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_tundra"
+                ]
+            }
+        }
+    ]
+}

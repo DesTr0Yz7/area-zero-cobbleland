@@ -1,0 +1,47 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "surskit-1",
+            "pokemon": "surskit",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "uncommon",
+            "level": "2-27",
+            "weight": 5.04,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_swamp"
+                ],
+                "isRaining": false
+            }
+        },
+        {
+            "id": "surskit-2",
+            "pokemon": "surskit",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "uncommon",
+            "level": "2-27",
+            "weight": 5.04,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_sunken_waters"
+                ],
+                "isRaining": false
+            }
+        }
+    ]
+}

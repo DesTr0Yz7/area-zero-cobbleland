@@ -1,0 +1,32 @@
+{
+ "species": "cobblemon:teradiancie",
+ "order": 0,
+ "variations": [
+   {
+     "aspects": [],
+     "poser": "cobblemon:teradiancie",
+     "model": "cobblemon:teradiancie.geo",
+     "texture": "cobblemon:textures/pokemon/teradiancie/teradiancie.png",
+     "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/teradiancie/teradiancie_emissive.png",
+          "emissive": true
+        }
+      ]
+   },
+   {
+     "aspects": [
+       "shiny"
+     ],
+     "texture": "cobblemon:textures/pokemon/teradiancie/teradiancie_shiny.png",
+      "layers": [
+        {
+          "name": "emissive",
+          "texture": "cobblemon:textures/pokemon/teradiancie/teradiancie_emissive.png",
+          "emissive": true
+        }
+      ]
+   }
+ ]
+}

@@ -1,0 +1,32 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "diglett-1",
+            "pokemon": "diglett",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "2-27",
+            "weight": 4.0,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_amethyst_caves",
+                    "area_zero_biomes:areazero_crystal_mines",
+                    "area_zero_biomes:areazero_deep_mines",
+                    "area_zero_biomes:areazero_ice_caves",
+                    "area_zero_biomes:areazero_lush_caves",
+                    "area_zero_biomes:areazero_warm_mines",
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        }
+    ]
+}

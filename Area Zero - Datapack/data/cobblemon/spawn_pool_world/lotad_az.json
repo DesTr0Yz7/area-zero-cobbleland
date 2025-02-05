@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "lotad-1",
+            "pokemon": "lotad",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "10-45",
+            "weight": 5,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_swamp"
+                ]
+            }
+        }
+    ]
+}

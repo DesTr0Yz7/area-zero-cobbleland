@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "cubchoo-1",
+            "pokemon": "cubchoo",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "40-70",
+            "weight": 4.7,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_tundra"
+                ]
+            }
+        }
+    ]
+}

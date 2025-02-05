@@ -1,0 +1,20 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "ironthorns-1",
+     "pokemon": "ironthorns",
+     "presets": [ "natural" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-70",
+     "weight": 1.1,
+     "condition": {
+       "biomes": [ "area_zero_biomes:areazero_savana"]
+     }
+   }
+ ]
+}

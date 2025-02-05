@@ -1,0 +1,20 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "wildovergrowth-1",
+     "pokemon": "wildovergrowth",
+     "presets": [ "natural" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-70",
+     "weight": 1.1,
+     "condition": {
+       "biomes": [ "area_zero_biomes:areazero_lush_caves"]
+     }
+   }
+ ]
+}
