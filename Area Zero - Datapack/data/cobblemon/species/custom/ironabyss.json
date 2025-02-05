@@ -1,0 +1,167 @@
+{
+  "name": "Iron Abyss",
+  "nationalPokedexNumber": 491,
+  "primaryType": "dark",
+"secondaryType": "ghost",
+  "abilities": [
+    "quarkdrive"
+  ],
+  "drops": {
+    "amount": 5,
+    "entries": [
+      {
+        "item": "minecraft:phantom_membrane",
+        "quantityRange": "2-4"
+      },
+      {
+        "item": "cobblemon:reaper_cloth"
+      }
+    ]
+  },
+  "baseStats": {
+    "hp": 78,
+    "attack": 94,
+    "defence": 62,
+    "special_attack": 150,
+    "special_defence": 66,
+    "speed": 140
+  },
+  "catchRate": 3,
+  "maleRatio": -1,
+  "shoulderMountable": true,
+  "baseExperienceYield": 270,
+  "experienceGroup": "slow",
+  "eggCycles": 120,
+  "eggGroups": [
+    "undiscovered"
+  ],
+  "moves": [
+    "1:disable",
+    "1:nightshade",
+    "1:ominouswind",
+    "11:quickattack",
+    "13:gravity",
+    "17:rapidspin",
+    "20:hypnosis",
+    "25:shadowball",
+    "29:feintattack",
+    "29:pursuit",
+    "29:suckerpunch",
+    "38:nightmare",
+    "38:nightshade",
+    "40:destinybond",
+    "47:doubleteam",
+    "57:haze",
+    "66:darkvoid",
+    "75:embargo",
+    "75:nastyplot",
+    "80:shadowball",
+    "84:dreameater",
+    "93:darkpulse",
+    "100:doomdesire",
+    "100:steelbeam",
+    "100:nightdaze",
+    "tm:aerialace",
+    "tm:blizzard",
+    "tm:brickbreak",
+    "tm:calmmind",
+    "tm:chargebeam",
+    "tm:confuseray",
+    "tm:darkpulse",
+    "tm:drainpunch",
+    "tm:dreameater",
+    "tm:endure",
+    "tm:facade",
+    "tm:flash",
+    "tm:fling",
+    "tm:focusblast",
+    "tm:foulplay",
+    "tm:frustration",
+    "tm:haze",
+    "tm:hex",
+    "tm:icebeam",
+    "tm:knockoff",
+    "tm:lashout",
+    "tm:nastyplot",
+    "tm:nightshade",
+    "tm:payback",
+    "tm:protect",
+    "tm:psychic",
+    "tm:psychup",
+    "tm:psyshock",
+    "tm:retaliate",
+    "tm:return",
+    "tm:scaryface",
+    "tm:secretpower",
+    "tm:shadowball",
+    "tm:shadowclaw",
+    "tm:shockwave",
+    "tm:sleeptalk",
+    "tm:snarl",
+    "tm:substitute",
+    "tm:taunt",
+    "tm:thief",
+    "tm:throatchop",
+    "tm:thunder",
+    "tm:thunderbolt",
+    "tm:thunderwave",
+    "tm:torment",
+    "tm:toxic",
+    "tm:trick",
+    "tm:willowisp",
+    "tm:xscissor"
+
+  ],
+  "labels": [
+    "gen4",
+    "paradox"  
+  ],
+  "pokedex": [
+    "cobblemon.species.ironabyss.desc1",
+    "cobblemon.species.ironabyss.desc2"
+  ],
+  "evolutions": [],
+  "baseScale": 0.75,
+  "hitbox": {
+    "width": 1,
+    "height": 2.5,
+    "fixed": false
+  },
+  "behaviour": {
+   "resting": {
+   "canSleep": true,
+   "willSleepOnBed": true,
+   "depth": "normal",
+   "light": "0-4"
+    },
+   "moving": {
+   "canLook": true,
+     "fly": {
+       "flySpeed": 1,
+       "canFly": true
+     },
+     "walk": {
+        "walkSpeed": 1
+      },
+     "swim": {
+       "swimSpeed": 1,
+       "canSwimInWater": true,
+       "canBreatheUnderwater": true,
+       "canWalkOnWater": true
+     }
+   }
+ },
+  "baseFriendship": 0,
+  "evYield": {
+    "hp": 0,
+    "attack": 0,
+    "defence": 0,
+    "special_attack": 2,
+    "special_defence": 0,
+    "speed": 1
+  },
+  "height": 15,
+  "weight": 505,
+  "aspects": [],
+  "cannotDynamax": false
+}
