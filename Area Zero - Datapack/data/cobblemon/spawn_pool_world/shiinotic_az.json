@@ -1,0 +1,42 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "shiinotic-1",
+            "pokemon": "shiinotic",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "24-41",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_amethyst_caves"
+                ]
+            }
+        },
+        {
+            "id": "shiinotic-2",
+            "pokemon": "shiinotic",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "24-41",
+            "weight": 0.2,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_lush_caves"
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "ironpoet-1",
+     "pokemon": "ironpoet",
+     "presets": [ "natural",
+                "urban" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-70",
+     "weight": 1,
+     "condition": {
+       "canSeeSky": true,
+       "timeRange": "13188-22812",
+       "biomes": [ "area_zero_biomes:areazero_plains"]
+     }
+   }
+ ]
+}

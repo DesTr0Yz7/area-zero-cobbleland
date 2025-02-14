@@ -1,0 +1,59 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "magcargo-1",
+            "pokemon": "magcargo",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-43",
+            "weight": 0.6,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazzero_volcanic_geysers"
+                ]
+            }
+        },
+        {
+            "id": "magcargo-2",
+            "pokemon": "magcargo",
+            "presets": [
+                "lava"
+            ],
+            "type": "pokemon",
+            "context": "surface",
+            "bucket": "common",
+            "level": "38-43",
+            "weight": 1.0,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        },
+        {
+            "id": "magcargo-3",
+            "pokemon": "magcargo",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-43",
+            "weight": 0.6,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazzero_warm_mines"
+                ]
+            }
+        }
+    ]
+}

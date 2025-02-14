@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "haunter-1",
+            "pokemon": "haunter",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "25-41",
+            "weight": 0.95,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_deep_mines"
+                ]
+            }
+        }
+    ]
+}
