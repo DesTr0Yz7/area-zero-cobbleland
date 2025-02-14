@@ -1,0 +1,24 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "cursola-1",
+            "pokemon": "cursola",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "seafloor",
+            "bucket": "uncommon",
+            "level": "16-41",
+            "weight": 0.9,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        }
+    ]
+}

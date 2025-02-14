@@ -1,0 +1,31 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "koffing-galarian-1",
+            "pokemon": "koffing galarian",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "9-34",
+            "weight": 1.8,
+            "weightMultiplier": {
+                "multiplier": 5.0,
+                "condition": {
+                    "timeRange": "night"
+                }
+            },
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        }
+    ]
+}

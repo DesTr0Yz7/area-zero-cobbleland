@@ -1,0 +1,29 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "vivillon-area-zero-1",
+            "pokemon": "vivillon vivillon_wings=area-zero",
+            "presets": [
+                "natural",
+                "flowers",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "12-41",
+            "weight": 2.0,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_plains"
+                ],
+                "timeRange": "day"
+            }
+        }
+    ]
+}
