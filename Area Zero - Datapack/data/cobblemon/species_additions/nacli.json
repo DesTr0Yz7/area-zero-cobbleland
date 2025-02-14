@@ -1,0 +1,112 @@
+{
+ "target": "cobblemon:nacli",
+ "features": ["az"],
+ "forms": [
+   {
+     "name": "Tera",
+     "primaryType": "rock",
+     "secondaryType": "bug",
+     "abilities": [
+       "overcoat",
+       "adaptability",
+       "h:shielddust"
+     ],
+     "aspects": ["az"],
+     "baseStats": {
+       "hp": 66,
+       "attack": 66,
+       "defence": 84,
+       "special_attack": 48,
+       "special_defence": 48,
+       "speed": 32
+     },
+     "drops": {
+       "amount": 2,
+       "entries": [
+         {
+           "item": "minecraft:quartz",
+           "quantityRange": "0-1"
+         },
+         {
+           "item": "cobblemon:passho_berry",
+           "percentage": 2.5
+         }
+       ]
+     },
+     "moves": [
+       "1:harden",
+       "1:tackle",
+       "5:rockthrow",
+       "7:mudshot",
+       "10:smackdown",
+       "13:rockpolish",
+       "16:headbutt",
+       "20:irondefense",
+       "25:recover",
+       "28:pounce",
+       "30:rockslide",
+       "32:firstimpression",
+       "33:stealthrock",
+       "35:heavyslam",
+       "40:earthquake",
+       "44:lunge",
+       "45:stoneedge",
+       "egg:ancientpower",
+       "egg:curse",
+       "egg:fissure",
+       "egg:powergem",
+       "tm:bodyslam",
+       "tm:bulldoze",
+       "tm:curse",
+       "tm:dig",
+       "tm:earthpower",
+       "tm:earthquake",
+       "tm:endure",
+       "tm:facade",
+       "tm:flashcannon",
+       "tm:heavyslam",
+       "tm:irondefense",
+       "tm:ironhead",
+       "tm:meteorbeam",
+       "tm:mudshot",
+       "tm:powergem",
+       "tm:protect",
+       "tm:rest",
+       "tm:rockslide",
+       "tm:sandstorm",
+       "tm:sleeptalk",
+       "tm:smackdown",
+       "tm:stealthrock",
+       "tm:stompingtantrum",
+       "tm:stoneedge",
+       "tm:substitute",
+       "tm:takedown",
+       "tm:terablast"
+     ],
+     "labels": [
+       "gen9",
+       "az"
+     ],
+     "evolutions": [
+       {
+         "id": "nacli_naclstackaz",
+         "variant": "level_up",
+         "result": "naclstack az",
+         "consumeHeldItem": false,
+         "learnableMoves": [
+           "saltcure"
+         ],
+         "requirements": [
+           {
+             "variant": "level",
+             "minLevel": 24
+           }
+         ]
+       }
+     ],
+     "pokedex": [
+       "cobblemon.species.nacli-az.desc"
+     ]
+   }
+ ]
+}
