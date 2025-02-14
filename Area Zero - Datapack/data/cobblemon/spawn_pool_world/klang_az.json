@@ -1,0 +1,54 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "klang-1",
+            "pokemon": "klang",
+            "presets": [
+                "natural",
+                "redstone",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-44",
+            "weight": 0.9,
+            "condition": {
+                "biomes": [
+                   "area_zero_biomes:areazero_beach",
+                   "area_zero_biomes:areazero_plains",
+                   "area_zero_biomes:areazero_savana",
+                   "area_zero_biomes:areazero_swamp",
+                   "area_zero_biomes:areazero_tundra",
+                   "area_zero_biomes:areazero_volcanic_geysers"
+                ],
+                "neededNearbyBlocks": [
+                    "#minecraft:smooth_quartz",
+                    "#minecraft:iron_trapdoor",
+                    "#minecraft:cyan_terracotta"
+                ]
+            }
+        },
+        {
+            "id": "klang-2",
+            "pokemon": "klang",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-44",
+            "weight": 0.18,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_warm_mines"
+                ]
+            }
+        }
+    ]
+}

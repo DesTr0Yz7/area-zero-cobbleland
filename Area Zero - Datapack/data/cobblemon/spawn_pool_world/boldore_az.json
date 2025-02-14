@@ -1,0 +1,80 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "boldore-1",
+            "pokemon": "boldore",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "25-39",
+            "weight": 0.95,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_deep_mines"
+                ]
+            }
+        },
+        {
+          "id": "boldore-az-2",
+          "pokemon": "boldore az",
+          "presets": [ "natural",
+                       "urban" ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "common",
+          "level": "25-39",
+          "weight": 0.95,
+          "condition": {
+            "biomes": [ "area_zero_biomes:areazero_tundra" ]
+          }
+        },
+        {
+          "id": "boldore-az-3",
+          "pokemon": "boldore az",
+          "presets": [ "natural" ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "uncommon",
+          "level": "35-45",
+          "weight": 1.52,
+          "condition": {
+            "biomes": [ "area_zero_biomes:areazero_tundra" ]
+          }
+        },
+        {
+          "id": "boldore-az-4",
+          "pokemon": "boldore az",
+          "presets": [ "natural" ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "common",
+          "level": "25-39",
+          "weight": 0.95,
+          "condition": {
+            "biomes": [ "area_zero_biomes:areazero_ice_caves" ]
+          }
+        },
+        {
+          "id": "boldore-az-5",
+          "pokemon": "boldore az",
+          "presets": [ "natural" ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "uncommon",
+          "level": "35-45",
+          "weight": 1.52,
+          "condition": {
+            "biomes": [ "area_zero_biomes:areazero_ice_caves" ]
+          }
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "reuniclus-1",
+            "pokemon": "reuniclus",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "rare",
+            "level": "30-52",
+            "weight": 0.1875,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                   "area_zero_biomes:areazero_beach",
+                   "area_zero_biomes:areazero_plains",
+                   "area_zero_biomes:areazero_savana",
+                   "area_zero_biomes:areazero_swamp",
+                   "area_zero_biomes:areazero_tundra",
+                   "area_zero_biomes:areazero_volcanic_geysers"
+                ],
+                "neededNearbyBlocks": [
+                    "#minecraft:smooth_quartz",
+                    "#minecraft:iron_trapdoor",
+                    "#minecraft:cyan_terracotta"
+                ]
+            }
+        }
+    ]
+}

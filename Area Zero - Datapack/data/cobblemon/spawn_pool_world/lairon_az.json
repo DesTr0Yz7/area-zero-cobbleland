@@ -1,0 +1,45 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "lairon-1",
+            "pokemon": "lairon",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "32-43",
+            "weight": 1.44,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_warm_mines"
+                ]
+            }
+        },
+        {
+            "id": "lairon-2",
+            "pokemon": "lairon",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "32-43",
+            "weight": 1.44,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        }
+    ]
+}

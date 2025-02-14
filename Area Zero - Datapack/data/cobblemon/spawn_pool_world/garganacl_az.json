@@ -1,0 +1,90 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "garganacl-1",
+            "pokemon": "garganacl",
+            "presets": [
+                "natural",
+                "wild",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-50",
+            "weight": 0.06,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_lush_caves"
+                ]
+            }
+        },
+        {
+            "id": "garganacl-2",
+            "pokemon": "garganacl",
+            "presets": [
+                "natural",
+                "wild",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-50",
+            "weight": 0.06,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        },
+        {
+            "id": "garganacl-az-3",
+            "pokemon": "garganacl az",
+            "presets": [
+                "natural",
+                "urban",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-50",
+            "weight": 0.06,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_plains"
+                ]
+            }
+        },
+        {
+            "id": "garganacl-az-4",
+            "pokemon": "garganacl az",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-50",
+            "weight": 0.1,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_lush_caves"
+                ]
+            }
+        }
+    ]
+}

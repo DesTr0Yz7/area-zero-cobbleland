@@ -1,0 +1,46 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "ironguardian-1",
+     "pokemon": "ironguardian",
+     "presets": [ "natural",
+                  "urban" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-70",
+     "weight": 1,
+     "condition": {
+       "canSeeSky": false,
+       "biomes": [ "area_zero_biomes:areazero_crystal_mines",
+                   "area_zero_biomes:areazero_amethyst_caves",
+                   "area_zero_biomes:areazero_deep_mines",
+                   "area_zero_biomes:areazero_ice_caves",
+                   "area_zero_biomes:areazero_lush_caves",
+                   "area_zero_biomes:areazero_warm_mines"]
+     }
+   },
+   {
+     "id": "ironguardian-2",
+     "pokemon": "ironguardian",
+     "presets": [ "natural" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-70",
+     "weight": 1,
+     "condition": {
+       "canSeeSky": true,
+       "biomes": [ "area_zero_biomes:areazero_beach",
+                   "area_zero_biomes:areazero_plains",
+                   "area_zero_biomes:areazero_savana",
+                   "area_zero_biomes:areazero_swamp",
+                   "area_zero_biomes:areazero_tundra",
+                   "area_zero_biomes:areazero_volcanic_geysers"]
+     }
+   }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "carbink-1",
+            "pokemon": "carbink",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "25-50",
+            "weight": 4.0,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_amethyst_caves",
+                    "area_zero_biomes:areazero_crystal_mines",
+                    "area_zero_biomes:areazero_deep_mines",
+                    "area_zero_biomes:areazero_ice_caves",
+                    "area_zero_biomes:areazero_lush_caves",
+                    "area_zero_biomes:areazero_warm_mines",
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        },
+        {
+          "id": "carbink-az-2",
+          "pokemon": "carbink az",
+          "presets": [ "natural",
+                       "urban"],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "uncommon",
+          "level": "55-70",
+          "weight": 1.0,
+          "condition": {
+            "canSeeSky": false,
+            "biomes": [ "area_zero_biomes:areazero_lush_caves" ]
+          }
+        }
+    ]
+}

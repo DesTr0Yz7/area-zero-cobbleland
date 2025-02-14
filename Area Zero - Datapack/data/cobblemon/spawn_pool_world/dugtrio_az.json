@@ -1,0 +1,33 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "dugtrio-1",
+            "pokemon": "dugtrio",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "26-43",
+            "weight": 0.5,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_amethyst_caves",
+                    "area_zero_biomes:areazero_crystal_mines",
+                    "area_zero_biomes:areazero_deep_mines",
+                    "area_zero_biomes:areazero_ice_caves",
+                    "area_zero_biomes:areazero_lush_caves",
+                    "area_zero_biomes:areazero_warm_mines",
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        }
+    ]
+}

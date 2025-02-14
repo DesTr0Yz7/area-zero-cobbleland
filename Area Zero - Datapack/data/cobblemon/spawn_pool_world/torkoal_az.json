@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "torkoal-1",
+            "pokemon": "torkoal",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "22-47",
+            "weight": 2.0,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        }
+    ]
+}

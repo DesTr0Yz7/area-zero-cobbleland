@@ -1,0 +1,77 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "corsola-galarian-1",
+            "pokemon": "corsola galarian",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "seafloor",
+            "bucket": "uncommon",
+            "level": "16-41",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        },
+        {
+            "id": "corsola-2",
+            "pokemon": "corsola",
+            "presets": [
+                "water"
+            ],
+            "type": "pokemon",
+            "context": "seafloor",
+            "bucket": "uncommon",
+            "level": "16-41",
+            "weight": 3.0,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        },
+        {
+            "id": "corsola-az-3",
+            "pokemon": "corsola az",
+            "presets": [
+                "underwater"
+            ],
+            "type": "pokemon",
+            "context": "seafloor",
+            "bucket": "uncommon",
+            "level": "16-41",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "area_zero_biomes:areazero_sunken_waters"
+                ]
+            }
+        },
+        {
+            "id": "corsola-az-4",
+            "pokemon": "corsola az",
+            "presets": [
+                "natural"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "16-41",
+            "weight": 9.0,
+            "condition": {
+                "canSeeSky": true,
+                "biomes": [
+                    "area_zero_biomes:areazero_beach"
+                ]
+            }
+        }
+    ]
+}

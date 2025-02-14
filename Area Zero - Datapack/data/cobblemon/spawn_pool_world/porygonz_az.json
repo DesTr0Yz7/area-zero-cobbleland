@@ -1,0 +1,31 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "porygonz-1",
+            "pokemon": "porygonz",
+            "presets": [
+                "natural",
+                "wild",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "47-54",
+            "weight": 0.08,
+            "condition": {
+                "biomes": [
+                   "area_zero_biomes:areazero_beach",
+                   "area_zero_biomes:areazero_plains",
+                   "area_zero_biomes:areazero_savana",
+                   "area_zero_biomes:areazero_swamp",
+                   "area_zero_biomes:areazero_tundra",
+                   "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        }
+    ]
+}

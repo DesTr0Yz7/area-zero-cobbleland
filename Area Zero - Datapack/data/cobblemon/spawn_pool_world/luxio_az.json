@@ -1,0 +1,27 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "luxio-1",
+            "pokemon": "luxio",
+            "presets": [
+                "natural",
+                "wild",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "uncommon",
+            "level": "15-36",
+            "weight": 1.44,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazero_warm_mines",
+                    "area_zero_biomes:areazero_savana"
+                ]
+            }
+        }
+    ]
+}
