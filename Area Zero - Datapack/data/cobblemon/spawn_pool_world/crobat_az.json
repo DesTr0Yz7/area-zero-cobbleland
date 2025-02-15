@@ -7,7 +7,8 @@
             "id": "crobat-1",
             "pokemon": "crobat",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

@@ -7,7 +7,8 @@
             "id": "milotic-1",
             "pokemon": "milotic",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "submerged",

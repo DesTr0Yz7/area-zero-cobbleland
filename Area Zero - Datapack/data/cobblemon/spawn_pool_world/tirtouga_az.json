@@ -7,7 +7,8 @@
             "id": "tirtouga-1",
             "pokemon": "tirtouga",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

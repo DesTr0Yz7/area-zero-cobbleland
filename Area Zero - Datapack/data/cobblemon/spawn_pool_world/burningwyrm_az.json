@@ -6,7 +6,8 @@
    {
      "id": "burningwyrm-1",
      "pokemon": "burningwyrm",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

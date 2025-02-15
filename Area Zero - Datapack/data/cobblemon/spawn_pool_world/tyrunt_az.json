@@ -7,7 +7,8 @@
             "id": "tyrunt-1",
             "pokemon": "tyrunt",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

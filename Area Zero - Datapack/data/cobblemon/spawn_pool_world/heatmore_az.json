@@ -7,7 +7,8 @@
             "id": "heatmor-1",
             "pokemon": "heatmor",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

@@ -7,7 +7,8 @@
             "id": "larvesta-1",
             "pokemon": "larvesta",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

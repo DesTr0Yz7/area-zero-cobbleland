@@ -1,0 +1,25 @@
+{
+    "enabled": true,
+    "neededInstalledMods": [],
+    "neededUninstalledMods": [],
+    "spawns": [
+        {
+            "id": "houndoom-1",
+            "pokemon": "houndoom",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "38-43",
+            "weight": 0.6,
+            "condition": {
+                "biomes": [
+                    "area_zero_biomes:areazzero_warm_mines"
+                ]
+            }
+        }
+    ]
+}

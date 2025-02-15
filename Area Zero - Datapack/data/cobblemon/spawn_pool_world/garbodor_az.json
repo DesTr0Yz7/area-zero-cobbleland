@@ -7,7 +7,8 @@
             "id": "garbodor-1",
             "pokemon": "garbodor",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

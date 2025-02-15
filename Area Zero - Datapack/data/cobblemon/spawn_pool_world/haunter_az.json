@@ -7,7 +7,8 @@
             "id": "haunter-1",
             "pokemon": "haunter",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

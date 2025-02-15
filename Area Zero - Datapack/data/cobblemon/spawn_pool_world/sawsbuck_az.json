@@ -4,11 +4,12 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "sawsbuck-spring-1",
-            "pokemon": "sawsbuck season=spring",
+            "id": "sawsbuck-1",
+            "pokemon": "sawsbuck",
             "presets": [
                 "natural",
-                "wild"
+                "wild",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -25,84 +26,9 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "area_zero_biomes:areazero_plains"
-                ]
-            }
-        },
-        {
-            "id": "sawsbuck-fall-2",
-            "pokemon": "sawsbuck season=fall",
-            "presets": [
-                "natural",
-                "wild"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "34-48",
-            "weight": 0.2,
-            "weightMultiplier": {
-                "multiplier": 0.25,
-                "condition": {
-                    "timeRange": "night"
-                }
-            },
-            "condition": {
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "biomes": [
-                    "area_zero_biomes:areazero_swamp"
-                ]
-            }
-        },
-        {
-            "id": "sawsbuck-summer-3",
-            "pokemon": "sawsbuck season=summer",
-            "presets": [
-                "natural",
-                "wild"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "34-48",
-            "weight": 0.2,
-            "weightMultiplier": {
-                "multiplier": 0.25,
-                "condition": {
-                    "timeRange": "night"
-                }
-            },
-            "condition": {
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "biomes": [
-                    "area_zero_biomes:areazero_savana"
-                ]
-            }
-        },
-        {
-            "id": "sawsbuck-winter-4",
-            "pokemon": "sawsbuck season=winter",
-            "presets": [
-                "natural",
-                "wild"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "34-48",
-            "weight": 0.2,
-            "weightMultiplier": {
-                "multiplier": 0.25,
-                "condition": {
-                    "timeRange": "night"
-                }
-            },
-            "condition": {
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "biomes": [
+                    "area_zero_biomes:areazero_plains",
+                    "area_zero_biomes:areazero_swamp",
+                    "area_zero_biomes:areazero_savana",
                     "area_zero_biomes:areazero_tundra"
                 ]
             }

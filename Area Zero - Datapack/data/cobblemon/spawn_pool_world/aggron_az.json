@@ -7,7 +7,8 @@
             "id": "aggron-1",
             "pokemon": "aggron",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -26,7 +27,8 @@
             "id": "aggron-2",
             "pokemon": "aggron",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

@@ -6,7 +6,8 @@
    {
      "id": "gougingfire-1",
      "pokemon": "gougingfire",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

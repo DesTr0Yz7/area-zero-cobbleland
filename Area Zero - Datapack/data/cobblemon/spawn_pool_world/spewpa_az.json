@@ -8,6 +8,7 @@
             "pokemon": "spewpa",
             "presets": [
                 "natural",
+                "urban",
                 "foliage"
             ],
             "type": "pokemon",

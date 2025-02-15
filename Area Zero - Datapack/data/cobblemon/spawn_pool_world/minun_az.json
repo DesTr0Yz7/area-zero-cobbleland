@@ -7,7 +7,8 @@
             "id": "minun-1",
             "pokemon": "minun",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

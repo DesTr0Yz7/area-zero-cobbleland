@@ -7,7 +7,8 @@
             "id": "rapidash-galarian-1",
             "pokemon": "rapidash galarian",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

@@ -7,7 +7,8 @@
             "id": "gengar-1",
             "pokemon": "gengar",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

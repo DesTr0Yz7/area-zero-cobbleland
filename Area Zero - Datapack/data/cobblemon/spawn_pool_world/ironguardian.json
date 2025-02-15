@@ -6,7 +6,8 @@
    {
      "id": "ironguardian-1",
      "pokemon": "ironguardian",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

@@ -7,7 +7,8 @@
             "id": "jumpluff-1",
             "pokemon": "jumpluff",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

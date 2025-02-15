@@ -7,7 +7,8 @@
             "id": "minccino-1",
             "pokemon": "minccino",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

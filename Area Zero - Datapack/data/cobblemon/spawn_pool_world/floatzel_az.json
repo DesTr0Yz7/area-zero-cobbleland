@@ -7,7 +7,8 @@
             "id": "floatzel-1",
             "pokemon": "floatzel",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

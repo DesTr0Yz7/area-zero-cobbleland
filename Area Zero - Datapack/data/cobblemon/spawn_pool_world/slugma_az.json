@@ -7,7 +7,8 @@
             "id": "slugma-1",
             "pokemon": "slugma",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

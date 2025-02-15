@@ -7,7 +7,8 @@
             "id": "sinistea-1",
             "pokemon": "sinistea",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -39,7 +40,8 @@
             "id": "sinistea-2",
             "pokemon": "sinistea",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

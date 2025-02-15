@@ -7,7 +7,8 @@
             "id": "tyrantrum-1",
             "pokemon": "tyrantrum",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

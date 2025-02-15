@@ -8,7 +8,8 @@
             "pokemon": "scatterbug",
             "presets": [
                 "natural",
-                "foliage"
+                "foliage",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

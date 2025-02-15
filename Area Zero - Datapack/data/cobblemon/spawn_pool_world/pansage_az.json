@@ -7,7 +7,8 @@
             "id": "pansage-1",
             "pokemon": "pansage",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

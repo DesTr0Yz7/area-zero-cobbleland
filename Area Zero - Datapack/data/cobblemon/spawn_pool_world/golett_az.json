@@ -7,7 +7,8 @@
             "id": "golett-1",
             "pokemon": "golett",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -41,7 +42,8 @@
             "id": "golett-2",
             "pokemon": "golett",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -75,7 +77,8 @@
             "id": "golett-3",
             "pokemon": "golett",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

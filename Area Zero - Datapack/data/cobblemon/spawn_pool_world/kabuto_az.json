@@ -7,7 +7,8 @@
             "id": "kabuto-1",
             "pokemon": "kabuto",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

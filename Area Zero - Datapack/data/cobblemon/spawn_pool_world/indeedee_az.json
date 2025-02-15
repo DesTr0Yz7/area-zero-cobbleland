@@ -7,7 +7,8 @@
             "id": "indeedee-1",
             "pokemon": "indeedee",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -19,7 +20,7 @@
                 "maxSkyLight": 15,
                 "biomes": [
                     "area_zero_biomes:areazero_plains",
-                    "area_zero_biomes:areazero_savana"
+                    "area_zero_biomes:areazero_savanna"
                 ]
             }
         }

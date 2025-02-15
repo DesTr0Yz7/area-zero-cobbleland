@@ -1,0 +1,105 @@
+{
+ "target": "cobblemon:garganacl",
+ "features": ["az"],
+ "forms": [
+   {
+     "name": "Tera",
+     "primaryType": "rock",
+     "secondaryType": "bug",
+     "abilities": [
+       "overcoat",
+       "adaptability",
+       "h:shielddust"
+     ],
+     "aspects": ["az"],
+     "baseStats": {
+       "hp": 110,
+       "attack": 110,
+       "defence": 150,
+       "special_attack": 60,
+       "special_defence": 100,
+       "speed": 40
+     },
+     "drops": {
+       "amount": 4,
+       "entries": [
+         {
+           "item": "minecraft:quartz",
+           "quantityRange": "0-3"
+         },
+         {
+           "item": "cobblemon:passho_berry",
+           "percentage": 10.0
+         }
+       ]
+     },
+     "moves": [
+       "1:harden",
+       "1:rockblast",
+       "1:tackle",
+       "1:saltcure",
+       "5:rockthrow",
+       "7:mudshot",
+       "10:rocktomb",
+       "11:ragepowder",
+       "13:rockpolish",
+       "16:headbutt",
+       "20:furycutter",
+       "21:silktrap",
+       "24:saltcure",
+       "30:recover",
+       "32:pounce",
+       "34:rockslide",
+       "40:stealthrock",
+       "41:stickyweb",
+       "42:firstimpression",
+       "44:heavyslam",
+       "44:lunge",
+       "46:steamroller",
+       "49:earthquake",
+       "54:stoneedge",
+       "56:megahorn",
+       "tm:bodypress",
+       "tm:bodyslam",
+       "tm:brickbreak",
+       "tm:bulldoze",
+       "tm:curse",
+       "tm:doubleedge",
+       "tm:earthpower",
+       "tm:earthquake",
+       "tm:endure",
+       "tm:flashcannon",
+       "tm:hardpress",
+       "tm:heavyslam",
+       "tm:hyperbeam",
+       "tm:irondefense",
+       "tm:ironhead",
+       "tm:meteorbeam",
+       "tm:mudshot",
+       "tm:powergem",
+       "tm:protect",
+       "tm:rest",
+       "tm:rockblast",
+       "tm:rockslide",
+       "tm:rocktomb",
+       "tm:sandstorm",
+       "tm:sleeptalk",
+       "tm:smackdown",
+       "tm:stealthrock",
+       "tm:stompingtantrum",
+       "tm:stoneedge",
+       "tm:substitute",
+       "tm:takedown",
+       "tm:terablast"
+     ],
+     "labels": [
+       "gen9",
+       "az"
+     ],
+     "preEvolution": "naclstack az",
+     "pokedex": [
+       "cobblemon.species.garganacl-az.desc"
+     ]
+   }
+ ]
+}

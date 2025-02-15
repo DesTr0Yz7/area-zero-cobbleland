@@ -8,7 +8,8 @@
             "pokemon": "naclstack",
             "presets": [
                 "natural",
-                "wild"
+                "wild",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -28,7 +29,8 @@
             "pokemon": "naclstack",
             "presets": [
                 "natural",
-                "wild"
+                "wild",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -40,6 +42,47 @@
                 "maxSkyLight": 7,
                 "biomes": [
                     "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        },
+        {
+            "id": "naclstack-az-3",
+            "pokemon": "naclstack az",
+            "presets": [
+                "natural",
+                "urban",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "24-36",
+            "weight": 0.54,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_plains"
+                ]
+            }
+        },
+        {
+            "id": "naclstack-az-4",
+            "pokemon": "naclstack az",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "24-36",
+            "weight": 0.9,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_lush_caves"
                 ]
             }
         }

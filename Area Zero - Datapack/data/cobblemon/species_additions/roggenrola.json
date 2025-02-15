@@ -1,0 +1,142 @@
+{
+ "target": "cobblemon:roggenrola",
+ "features": ["az"],
+ "forms": [
+   {
+     "name": "Tera",
+     "primaryType": "rock",
+     "secondaryType": "ice",
+     "abilities": [
+       "sturdy",
+       "weakarmor",
+       "h:sandforce"
+     ],
+     "aspects": ["az"],
+     "baseStats": {
+       "hp": 60,
+       "attack": 75,
+       "defence": 85,
+       "special_attack": 20,
+       "special_defence": 25,
+       "speed": 20
+     },
+     "drops": {
+       "amount": 4,
+       "entries": [
+         {
+           "item": "minecraft:raw_copper",
+           "quantityRange": "0-1"
+         },
+         {
+           "item": "cobblemon:hard_stone",
+           "percentage": 2.5
+         },
+         {
+           "item": "cobblemon:everstone",
+           "percentage": 2.5
+         },
+         {
+           "item": "cobblemon:black_augurite",
+           "percentage": 2.5
+         }
+       ]
+     },
+     "moves": [
+       "1:sandattack",
+       "1:tackle",
+       "4:harden",
+       "8:stealthrock",
+       "12:mudslap",
+       "16:smackdown",
+       "20:irondefense",
+       "22:iceshard",
+       "24:headbutt",
+       "28:rockslide",
+       "32:rockblast",
+       "36:sandstorm",
+       "40:stoneedge",
+       "42:blizzard",
+       "44:explosion",
+       "48:iciclecrash",
+       "egg:autotomize",
+       "egg:curse",
+       "egg:gravity",
+       "egg:heavyslam",
+       "egg:lockon",
+       "egg:magnitude",
+       "egg:rocktomb",
+       "egg:takedown",
+       "egg:wideguard",
+       "tm:attract",
+       "tm:bodypress",
+       "tm:bulldoze",
+       "tm:confide",
+       "tm:doubleteam",
+       "tm:earthpower",
+       "tm:earthquake",
+       "tm:endure",
+       "tm:explosion",
+       "tm:facade",
+       "tm:flashcannon",
+       "tm:frustration",
+       "tm:heavyslam",
+       "tm:hiddenpower",
+       "tm:irondefense",
+       "tm:naturepower",
+       "tm:protect",
+       "tm:rest",
+       "tm:return",
+       "tm:rockblast",
+       "tm:rockpolish",
+       "tm:rockslide",
+       "tm:rocksmash",
+       "tm:rocktomb",
+       "tm:round",
+       "tm:sandstorm",
+       "tm:sandtomb",
+       "tm:secretpower",
+       "tm:sleeptalk",
+       "tm:smackdown",
+       "tm:snore",
+       "tm:stealthrock",
+       "tm:stoneedge",
+       "tm:strength",
+       "tm:substitute",
+       "tm:swagger",
+       "tm:toxic",
+       "tutor:block",
+       "tutor:earthpower",
+       "tutor:gravity",
+       "tutor:irondefense",
+       "tutor:meteorbeam",
+       "tutor:sleeptalk",
+       "tutor:snore",
+       "tutor:stealthrock"
+     ],
+     "labels": [
+       "gen5",
+       "az"
+     ],
+     "evolutions": [
+       {
+         "id": "roggenrola_boldoreaz",
+         "variant": "level_up",
+         "result": "boldore az",
+         "consumeHeldItem": false,
+         "learnableMoves": [
+           "powergem"
+         ],
+         "requirements": [
+           {
+             "variant": "level",
+             "minLevel": 25
+           }
+         ]
+       }
+     ],
+     "pokedex": [
+       "cobblemon.species.roggenrola-az.desc"
+     ]
+   }
+ ]
+}

@@ -7,7 +7,8 @@
             "id": "gigalith-1",
             "pokemon": "gigalith",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -21,6 +22,114 @@
                     "area_zero_biomes:areazero_deep_mines"
                 ]
             }
+        },
+        {
+          "id": "gigalith-az-2",
+          "pokemon": "gigalith az",
+          "presets": [ "natural",
+                       "urban" ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "rare",
+          "level": "45-55",
+          "weight": 3.0,
+          "condition": {
+            "biomes": [ "area_zero_biomes:areazero_tundra" ]
+          }
+        },
+        {
+          "id": "gigalith-az-3",
+          "pokemon": "gigalith az",
+          "presets": [ "natural",
+                       "urban" ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "ultra-rare",
+          "level": "55-60",
+          "weight": 8.0,
+          "condition": {
+            "biomes": [ "area_zero_biomes:areazero_tundra" ]
+         }
+        },
+        {
+          "id": "gigalith-az-4",
+          "pokemon": "gigalith az",
+          "presets": [
+              "natural",
+              "urban"
+          ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "common",
+          "level": "34-52",
+          "weight": 0.05,
+          "condition": {
+              "minSkyLight": 0,
+              "maxSkyLight": 7,
+              "biomes": [
+                  "area_zero_biomes:areazero_tundra"
+              ]
+          }
+        },
+        {
+          "id": "gigalith-az-5",
+          "pokemon": "gigalith az",
+          "presets": [
+              "natural",
+              "urban"
+          ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "uncommon",
+          "level": "34-52",
+          "weight": 0.08,
+          "condition": {
+              "minSkyLight": 0,
+              "maxSkyLight": 7,
+              "biomes": [
+                  "area_zero_biomes:areazero_tundra"
+              ]
+          }
+        },
+        {
+          "id": "gigalith-az-6",
+          "pokemon": "gigalith az",
+          "presets": [
+              "natural",
+              "urban"
+          ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "common",
+          "level": "34-52",
+          "weight": 0.05,
+          "condition": {
+              "minSkyLight": 0,
+              "maxSkyLight": 7,
+              "biomes": [
+                  "area_zero_biomes:areazero_ice_caves"
+              ]
+          }
+        },
+        {
+          "id": "gigalith-az-7",
+          "pokemon": "gigalith az",
+          "presets": [
+              "natural",
+              "urban"
+          ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "uncommon",
+          "level": "34-52",
+          "weight": 0.08,
+          "condition": {
+              "minSkyLight": 0,
+              "maxSkyLight": 7,
+              "biomes": [
+                  "area_zero_biomes:areazero_ice_caves"
+              ]
+          }
         }
     ]
 }

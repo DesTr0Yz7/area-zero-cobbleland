@@ -7,7 +7,8 @@
             "id": "swablu-1",
             "pokemon": "swablu",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "surface",

@@ -8,7 +8,8 @@
             "pokemon": "vivillon vivillon_wings=area-zero",
             "presets": [
                 "natural",
-                "flowers"
+                "flowers",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

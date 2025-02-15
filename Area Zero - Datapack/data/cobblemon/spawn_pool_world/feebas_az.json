@@ -7,7 +7,8 @@
             "id": "feebas-1",
             "pokemon": "feebas",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "submerged",

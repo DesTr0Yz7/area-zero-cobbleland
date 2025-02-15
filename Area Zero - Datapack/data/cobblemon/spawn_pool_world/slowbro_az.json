@@ -7,7 +7,8 @@
             "id": "slowbro-galarian-1",
             "pokemon": "slowbro galarian",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

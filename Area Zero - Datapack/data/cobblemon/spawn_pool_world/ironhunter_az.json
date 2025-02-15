@@ -6,7 +6,8 @@
    {
      "id": "ironhunter-1",
      "pokemon": "ironhunter",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

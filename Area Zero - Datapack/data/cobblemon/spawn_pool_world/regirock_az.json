@@ -1,0 +1,22 @@
+{
+ "enabled": true,
+ "neededInstalledMods": [],
+ "neededUninstalledMods": [],
+ "spawns": [
+   {
+     "id": "regirock-az-1",
+     "pokemon": "regirock az",
+     "presets": [ "natural",
+                  "urban" ],
+     "type": "pokemon",
+     "context": "grounded",
+     "bucket": "ultra-rare",
+     "level": "55-75",
+     "weight": 0.7,
+     "condition": {
+       "canSeeSky": true,
+       "biomes": [ "area_zero_biomes:areazero_savana"]
+     }
+   }
+ ]
+}

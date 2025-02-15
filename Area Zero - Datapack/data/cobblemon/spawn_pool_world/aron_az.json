@@ -7,7 +7,8 @@
             "id": "aron-1",
             "pokemon": "aron",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -26,7 +27,8 @@
             "id": "aron-2",
             "pokemon": "aron",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

@@ -7,7 +7,8 @@
             "id": "mawile-1",
             "pokemon": "mawile",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

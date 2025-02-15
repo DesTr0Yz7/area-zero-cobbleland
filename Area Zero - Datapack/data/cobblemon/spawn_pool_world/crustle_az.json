@@ -7,7 +7,8 @@
             "id": "crustle-1",
             "pokemon": "crustle",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

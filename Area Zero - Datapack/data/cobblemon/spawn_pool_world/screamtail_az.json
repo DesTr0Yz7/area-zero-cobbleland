@@ -6,7 +6,8 @@
    {
      "id": "screamtail-1",
      "pokemon": "screamtail",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

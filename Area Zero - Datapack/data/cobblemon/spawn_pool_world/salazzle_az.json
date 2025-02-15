@@ -7,7 +7,8 @@
             "id": "salazzle-1",
             "pokemon": "salazzle",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

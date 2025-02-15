@@ -7,7 +7,8 @@
             "id": "woobat-1",
             "pokemon": "woobat",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

@@ -6,7 +6,8 @@
    {
      "id": "walkingwake-1",
      "pokemon": "walkingwake",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

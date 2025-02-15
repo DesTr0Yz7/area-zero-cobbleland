@@ -7,7 +7,8 @@
             "id": "torkoal-1",
             "pokemon": "torkoal",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

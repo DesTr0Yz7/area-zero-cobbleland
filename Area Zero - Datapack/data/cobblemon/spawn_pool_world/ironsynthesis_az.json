@@ -6,7 +6,8 @@
    {
      "id": "ironsynthesis-1",
      "pokemon": "ironsynthesis",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

@@ -6,12 +6,13 @@
    {
      "id": "ironabyss-1",
      "pokemon": "ironabyss",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",
      "level": "55-70",
-     "weight": 1.5,
+     "weight": 0.9,
      "condition": {
        "canSeeSky": false,
        "biomes": [ "area_zero_biomes:areazero_crystal_mines" ]
@@ -20,12 +21,13 @@
    {
      "id": "ironabyss-2",
      "pokemon": "ironabyss",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",
      "level": "55-70",
-     "weight": 1.5,
+     "weight": 0.9,
      "weightMultiplier": {
        "multiplier": 1.5,
        "condition": {

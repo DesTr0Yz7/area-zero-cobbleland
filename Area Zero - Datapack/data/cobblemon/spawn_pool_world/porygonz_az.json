@@ -6,6 +6,11 @@
         {
             "id": "porygonz-1",
             "pokemon": "porygonz",
+            "presets": [
+                "natural",
+                "wild",
+                "urban"
+            ],
             "type": "pokemon",
             "context": "grounded",
             "bucket": "uncommon",

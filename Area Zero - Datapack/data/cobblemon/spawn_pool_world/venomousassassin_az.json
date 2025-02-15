@@ -6,7 +6,8 @@
    {
      "id": "venomousassassin-1",
      "pokemon": "venomousassassin",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

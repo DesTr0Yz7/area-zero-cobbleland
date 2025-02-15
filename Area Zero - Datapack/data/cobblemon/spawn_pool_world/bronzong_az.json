@@ -7,7 +7,8 @@
             "id": "bronzong-1",
             "pokemon": "bronzong",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

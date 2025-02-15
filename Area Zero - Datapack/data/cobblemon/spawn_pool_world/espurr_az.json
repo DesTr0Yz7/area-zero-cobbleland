@@ -7,7 +7,8 @@
             "id": "espurr-1",
             "pokemon": "espurr",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

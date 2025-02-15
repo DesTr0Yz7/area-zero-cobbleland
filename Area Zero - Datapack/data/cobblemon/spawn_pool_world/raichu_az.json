@@ -7,7 +7,8 @@
             "id": "raichu-1",
             "pokemon": "raichu",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -24,7 +25,8 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "area_zero_biomes:areazero_plains"
+                    "area_zero_biomes:areazero_plains",
+                    "area_zero_biomes:areazero_warm_mines"
                 ]
             }
         },

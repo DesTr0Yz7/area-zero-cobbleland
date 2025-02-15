@@ -8,7 +8,8 @@
             "pokemon": "phantump",
             "presets": [
                 "natural",
-                "wild"
+                "wild",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

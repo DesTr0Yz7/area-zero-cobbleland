@@ -8,7 +8,8 @@
             "pokemon": "nacli",
             "presets": [
                 "natural",
-                "wild"
+                "wild",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -28,7 +29,8 @@
             "pokemon": "nacli",
             "presets": [
                 "natural",
-                "wild"
+                "wild",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -40,6 +42,47 @@
                 "maxSkyLight": 7,
                 "biomes": [
                     "area_zero_biomes:areazero_volcanic_geysers"
+                ]
+            }
+        },
+        {
+            "id": "nacli-az-3",
+            "pokemon": "nacli az",
+            "presets": [
+                "natural",
+                "urban",
+                "wild"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 5.4,
+            "condition": {
+                "minSkyLight": 8,
+                "maxSkyLight": 15,
+                "biomes": [
+                    "area_zero_biomes:areazero_plains"
+                ]
+            }
+        },
+        {
+            "id": "nacli-az-4",
+            "pokemon": "nacli az",
+            "presets": [
+                "natural",
+                "urban"
+            ],
+            "type": "pokemon",
+            "context": "grounded",
+            "bucket": "common",
+            "level": "3-28",
+            "weight": 9.0,
+            "condition": {
+                "minSkyLight": 0,
+                "maxSkyLight": 7,
+                "biomes": [
+                    "area_zero_biomes:areazero_lush_caves"
                 ]
             }
         }

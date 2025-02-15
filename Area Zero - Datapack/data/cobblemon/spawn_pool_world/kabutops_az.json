@@ -7,7 +7,8 @@
             "id": "kabutops-1",
             "pokemon": "kabutops",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

@@ -6,7 +6,8 @@
    {
      "id": "mewtwo-1",
      "pokemon": "mewtwo",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

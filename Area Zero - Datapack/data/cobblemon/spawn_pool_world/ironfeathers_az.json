@@ -6,7 +6,8 @@
    {
      "id": "ironfeathers-1",
      "pokemon": "ironfeathers",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

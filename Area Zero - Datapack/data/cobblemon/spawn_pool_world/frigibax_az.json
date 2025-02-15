@@ -7,7 +7,8 @@
             "id": "frigibax-1",
             "pokemon": "frigibax",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

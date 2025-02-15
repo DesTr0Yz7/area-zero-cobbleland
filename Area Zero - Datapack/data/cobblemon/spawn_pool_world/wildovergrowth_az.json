@@ -6,7 +6,8 @@
    {
      "id": "wildovergrowth-1",
      "pokemon": "wildovergrowth",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

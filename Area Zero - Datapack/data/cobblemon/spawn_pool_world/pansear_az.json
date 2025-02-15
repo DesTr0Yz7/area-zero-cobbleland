@@ -7,7 +7,8 @@
             "id": "pansear-1",
             "pokemon": "pansear",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

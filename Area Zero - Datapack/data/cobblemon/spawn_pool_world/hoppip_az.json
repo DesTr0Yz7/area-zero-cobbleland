@@ -7,7 +7,8 @@
             "id": "hoppip-1",
             "pokemon": "hoppip",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

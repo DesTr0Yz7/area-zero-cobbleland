@@ -7,7 +7,8 @@
             "id": "tyranitar-1",
             "pokemon": "tyranitar",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

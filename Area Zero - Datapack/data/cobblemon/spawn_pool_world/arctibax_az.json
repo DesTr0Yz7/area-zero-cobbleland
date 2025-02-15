@@ -7,7 +7,8 @@
             "id": "arctibax-1",
             "pokemon": "arctibax",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

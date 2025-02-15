@@ -7,7 +7,8 @@
             "id": "nymble-1",
             "pokemon": "nymble",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

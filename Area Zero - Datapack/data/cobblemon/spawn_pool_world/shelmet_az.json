@@ -7,7 +7,8 @@
             "id": "shelmet-1",
             "pokemon": "shelmet",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "surface",

@@ -8,7 +8,8 @@
             "pokemon": "klang",
             "presets": [
                 "natural",
-                "redstone"
+                "redstone",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -35,7 +36,8 @@
             "id": "klang-2",
             "pokemon": "klang",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

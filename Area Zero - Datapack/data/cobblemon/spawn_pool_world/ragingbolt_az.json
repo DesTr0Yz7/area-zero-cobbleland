@@ -6,14 +6,16 @@
    {
      "id": "ragingbolt-1",
      "pokemon": "ragingbolt",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",
      "level": "55-70",
      "weight": 1,
      "condition": {
-       "biomes": [ "area_zero_biomes:areazero_savana"]
+       "biomes": [ "area_zero_biomes:areazero_savana",
+                   "area_zero_biomes:areazero_warm_mines"]
      }
    }
  ]

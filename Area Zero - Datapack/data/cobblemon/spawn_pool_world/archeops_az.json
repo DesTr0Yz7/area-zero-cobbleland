@@ -7,7 +7,8 @@
             "id": "archeops-1",
             "pokemon": "archeops",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

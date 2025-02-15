@@ -7,7 +7,8 @@
             "id": "abomasnow-1",
             "pokemon": "abomasnow",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

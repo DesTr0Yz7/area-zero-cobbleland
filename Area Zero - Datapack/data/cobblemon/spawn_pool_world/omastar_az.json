@@ -7,7 +7,8 @@
             "id": "omastar-1",
             "pokemon": "omastar",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

@@ -4,11 +4,12 @@
     "neededUninstalledMods": [],
     "spawns": [
         {
-            "id": "deerling-spring-1",
-            "pokemon": "deerling season=spring",
+            "id": "deerling-1",
+            "pokemon": "deerling",
             "presets": [
                 "natural",
-                "wild"
+                "wild",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -25,84 +26,9 @@
                 "minSkyLight": 8,
                 "maxSkyLight": 15,
                 "biomes": [
-                    "area_zero_biomes:areazero_plains"
-                ]
-            }
-        },
-        {
-            "id": "deerling-fall-2",
-            "pokemon": "deerling season=fall",
-            "presets": [
-                "natural",
-                "wild"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "9-34",
-            "weight": 1.8,
-            "weightMultiplier": {
-                "multiplier": 0.25,
-                "condition": {
-                    "timeRange": "night"
-                }
-            },
-            "condition": {
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "biomes": [
-                    "area_zero_biomes:areazero_swamp"
-                ]
-            }
-        },
-        {
-            "id": "deerling-summer-3",
-            "pokemon": "deerling season=summer",
-            "presets": [
-                "natural",
-                "wild"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "9-34",
-            "weight": 1.8,
-            "weightMultiplier": {
-                "multiplier": 0.25,
-                "condition": {
-                    "timeRange": "night"
-                }
-            },
-            "condition": {
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "biomes": [
-                    "area_zero_biomes:areazero_savana"
-                ]
-            }
-        },
-        {
-            "id": "deerling-winter-4",
-            "pokemon": "deerling season=winter",
-            "presets": [
-                "natural",
-                "wild"
-            ],
-            "type": "pokemon",
-            "context": "grounded",
-            "bucket": "common",
-            "level": "9-34",
-            "weight": 1.8,
-            "weightMultiplier": {
-                "multiplier": 0.25,
-                "condition": {
-                    "timeRange": "night"
-                }
-            },
-            "condition": {
-                "minSkyLight": 8,
-                "maxSkyLight": 15,
-                "biomes": [
+                    "area_zero_biomes:areazero_plains",
+                    "area_zero_biomes:areazero_swamp",
+                    "area_zero_biomes:areazero_savana",
                     "area_zero_biomes:areazero_tundra"
                 ]
             }

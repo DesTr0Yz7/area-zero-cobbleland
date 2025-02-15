@@ -7,7 +7,8 @@
             "id": "lunatone-1",
             "pokemon": "lunatone",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

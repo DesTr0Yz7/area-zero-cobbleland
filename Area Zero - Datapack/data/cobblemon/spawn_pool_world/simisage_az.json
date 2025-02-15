@@ -7,7 +7,8 @@
             "id": "simisage-1",
             "pokemon": "simisage",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

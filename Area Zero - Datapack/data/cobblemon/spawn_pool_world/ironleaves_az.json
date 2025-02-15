@@ -6,7 +6,8 @@
    {
      "id": "ironleaves-1",
      "pokemon": "ironleaves",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

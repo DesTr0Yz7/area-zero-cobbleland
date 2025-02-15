@@ -8,7 +8,8 @@
             "pokemon": "turtonator",
             "presets": [
                 "natural",
-                "wild"
+                "wild",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

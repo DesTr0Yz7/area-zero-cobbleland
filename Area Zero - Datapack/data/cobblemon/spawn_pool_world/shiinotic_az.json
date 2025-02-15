@@ -7,7 +7,8 @@
             "id": "shiinotic-1",
             "pokemon": "shiinotic",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

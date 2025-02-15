@@ -7,7 +7,8 @@
             "id": "tatsugiri-1",
             "pokemon": "tatsugiri",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

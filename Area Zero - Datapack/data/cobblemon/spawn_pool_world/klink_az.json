@@ -8,7 +8,8 @@
             "pokemon": "klink",
             "presets": [
                 "natural",
-                "redstone"
+                "redstone",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -35,7 +36,8 @@
             "id": "klink-2",
             "pokemon": "klink",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

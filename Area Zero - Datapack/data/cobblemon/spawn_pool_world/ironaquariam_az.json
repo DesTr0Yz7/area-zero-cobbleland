@@ -4,9 +4,10 @@
  "neededUninstalledMods": [],
  "spawns": [
    {
-     "id": "ironaquariam-1",
-     "pokemon": "ironaquariam",
-     "presets": [ "natural" ],
+     "id": "ironarachnid-1",
+     "pokemon": "ironarachnid",
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",
@@ -17,8 +18,8 @@
      }
    },
    {
-     "id": "ironaquariam-1",
-     "pokemon": "ironaquariam",
+     "id": "ironarachnid-1",
+     "pokemon": "ironarachnid",
      "presets": [ "water" ],
      "type": "pokemon",
      "context": "submerged",

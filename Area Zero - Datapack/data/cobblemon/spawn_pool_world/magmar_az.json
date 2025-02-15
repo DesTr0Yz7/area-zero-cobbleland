@@ -7,7 +7,8 @@
             "id": "magmar-1",
             "pokemon": "magmar",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

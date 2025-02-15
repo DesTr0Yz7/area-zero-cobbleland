@@ -7,7 +7,8 @@
             "id": "avalugg-1",
             "pokemon": "avalugg",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

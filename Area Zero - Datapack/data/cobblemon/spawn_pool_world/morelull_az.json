@@ -7,7 +7,8 @@
             "id": "morelull-1",
             "pokemon": "morelull",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

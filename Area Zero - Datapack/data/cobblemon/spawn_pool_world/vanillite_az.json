@@ -7,7 +7,8 @@
             "id": "vanillite-1",
             "pokemon": "vanillite",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

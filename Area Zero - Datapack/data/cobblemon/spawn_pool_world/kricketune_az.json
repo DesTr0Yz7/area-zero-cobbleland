@@ -7,7 +7,8 @@
             "id": "kricketune-1",
             "pokemon": "kricketune",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

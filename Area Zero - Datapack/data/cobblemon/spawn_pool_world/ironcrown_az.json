@@ -6,7 +6,8 @@
    {
      "id": "ironcrown-1",
      "pokemon": "ironcrown",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

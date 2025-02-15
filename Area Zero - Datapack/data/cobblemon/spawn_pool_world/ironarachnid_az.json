@@ -6,7 +6,8 @@
    {
      "id": "ironarachnid-1",
      "pokemon": "ironarachnid",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

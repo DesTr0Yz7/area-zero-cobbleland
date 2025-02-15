@@ -6,7 +6,8 @@
    {
      "id": "rumblingchief-1",
      "pokemon": "rumblingchief",
-     "presets": [ "natural" ],
+     "presets": [ "natural",
+                  "urban" ],
      "type": "pokemon",
      "context": "grounded",
      "bucket": "ultra-rare",

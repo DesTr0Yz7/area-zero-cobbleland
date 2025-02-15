@@ -1,0 +1,19 @@
+{
+  "pokemon": [
+    "nacli",
+    "naclstack",
+    "garganacl",
+    "carbink",
+    "diancie",
+    "onix",
+    "steelix",
+    "corsola",
+    "roggenrola",
+    "boldore",
+    "gigalith",
+    "regirock"
+  ],
+  "features": [
+    "az"
+  ]
+}

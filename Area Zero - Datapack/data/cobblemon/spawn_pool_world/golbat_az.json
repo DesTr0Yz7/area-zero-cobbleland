@@ -7,7 +7,8 @@
             "id": "golbat-1",
             "pokemon": "golbat",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

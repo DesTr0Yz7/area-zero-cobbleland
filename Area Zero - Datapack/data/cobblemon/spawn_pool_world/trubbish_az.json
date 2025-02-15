@@ -7,7 +7,8 @@
             "id": "trubbish-1",
             "pokemon": "trubbish",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",

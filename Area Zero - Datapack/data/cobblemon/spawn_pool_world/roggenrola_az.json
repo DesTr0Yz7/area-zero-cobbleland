@@ -7,7 +7,8 @@
             "id": "roggenrola-1",
             "pokemon": "roggenrola",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
@@ -21,6 +22,34 @@
                     "area_zero_biomes:areazero_deep_mines"
                 ]
             }
+        },
+        {
+          "id": "roggenrola-az-2",
+          "pokemon": "roggenrola az",
+          "presets": [ "natural",
+                       "urban"],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "common",
+          "level": "3-28",
+          "weight": 9.0,
+          "condition": {
+            "biomes": [ "area_zero_biomes:areazero_tundra" ]
+          }
+        },
+        {
+          "id": "roggenrola-az-3",
+          "pokemon": "roggenrola az",
+          "presets": [ "natural",
+                       "urban" ],
+          "type": "pokemon",
+          "context": "grounded",
+          "bucket": "common",
+          "level": "3-28",
+          "weight": 9.0,
+          "condition": {
+            "biomes": [ "area_zero_biomes:areazero_ice_caves" ]
+          }
         }
     ]
 }

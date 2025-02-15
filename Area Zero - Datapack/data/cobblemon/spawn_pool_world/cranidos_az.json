@@ -7,7 +7,8 @@
             "id": "cranidos-1",
             "pokemon": "cranidos",
             "presets": [
-                "natural"
+                "natural",
+                "urban"
             ],
             "type": "pokemon",
             "context": "grounded",
